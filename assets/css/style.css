@@ -21,3 +21,8 @@ color_fondo{
 
     text-align: center;
 }
+
+.mayuscula{
+
+    text-transform: uppercase;
+}
